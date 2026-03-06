@@ -4,7 +4,7 @@ Vitor Rodrigues - 2320595
 
 2️⃣ Estrutura baseada em Arquitetura Limpa
 
-Neste projeto, organizei utilizando uma arquitetura em camadas para melhorar a separação das funcionalidades do código. As rotas servem para definir os endpoints da API, os controllers recebem e tratam as requisições HTTP, os services concentram as regras de negócio da aplicação e os repositories são responsáveis pela comunicação com o banco de dados com o Prisma ORM. 
+Neste projeto, organizei utilizando uma arquitetura em camadas para melhorar a separação das funcionalidades do código. As rotas servem para definir os endpoints da API, os controllers recebem e tratam as requisições HTTP, os services concentram as regras de negócio da aplicação e os repositories são responsáveis pela comunicação com o banco de dados com o Prisma ORM. Utilizei também a padronização do idioma em inglês com base no exemplo "User not found" da atividade.
 
 Método POST/GET com 2 usuários de exemplo:
 <img width="1098" height="948" alt="image" src="https://github.com/user-attachments/assets/dcd21fe2-7b64-41f5-a9df-a55483e5f22f" />
